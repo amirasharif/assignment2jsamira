@@ -1,0 +1,27 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 75px;
+    font-family: Impact;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: #09c;
+    color: white;
+}
+
+p{
+    font-size: 30px;
+}
+
+button:hover{
+    background-color: #41940d;
+}
